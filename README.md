@@ -1,1 +1,1 @@
-# Agriculture-Anatytics
+# Agriculture-Analytics
